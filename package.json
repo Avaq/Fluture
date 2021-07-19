@@ -81,7 +81,7 @@
     "codecov": "^3.6.1",
     "es-check": "^5.0.0",
     "eslint": "^7.0.0",
-    "eslint-config-warp": "^4.0.0",
+    "eslint-config-warp": "^6.0.0",
     "fantasy-laws": "^1.0.1",
     "jsverify": "^0.8.3",
     "oletus": "^3.0.0",
